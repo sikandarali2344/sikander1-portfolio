@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: #f4f6f8;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background: linear-gradient(135deg, #0066cc, #003366);
+  color: white;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.profile-img {
+  width: 180px;             /* size of the circle */
+  height: 180px;
+  object-fit: cover;        /* ensures your full face fits inside the circle */
+  border-radius: 50%;       /* makes it a perfect circle */
+  border: 4px solid white;  /* white border for contrast */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* smooth shadow */
+  margin-bottom: 1rem;
+}
+
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+header p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.social-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  border: 1px solid white;
+  padding: 5px 15px;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.social-links a:hover {
+  background: white;
+  color: #003366;
+}
+
+section {
+  padding: 3rem 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+section h2 {
+  border-bottom: 3px solid #003366;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  background: #003366;
+  color: white;
+  padding: 1rem;
+  margin-top: 2rem;
+}
