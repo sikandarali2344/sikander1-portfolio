@@ -1,0 +1,212 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Sikandar Ali
+Sikander Ali
+Web developer
+
+Show Contacts
+
+Email
+richard@example.com
+
+Phone
+03322823546
+
+Birthday
+march 26, 2006
+
+Location
+Nawabshah Sindh Pakistan
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+I specialize in C, C++, OOP, Python, JavaScript, React, and SQL, with growing expertise in AI and Android Development (Java & Kotlin).
+
+I have a strong interest in web development, artificial intelligence, and software design, and I enjoy building projects that solve real-world problems — from frontend applications to database-driven systems.
+## service
+
+What i'm doing
+
+
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Govt School Haji Muhammad Dhaunroo
+2011 — 2016
+studied  1st to 5th with basic subjects.
+
+Govt Higher Sec School jamsahib
+2016 — 2022
+Completed Matriculation and Intermediate (Science Group) under BISE Shaheed Benazirabad.
+Built a strong academic base in science, mathematics, and computing.
+Quest University Nawabshah
+2023-till
+I am currently an undergraduate student pursuing a Bachelor of Science in Computer Science (BSCS) at Quaid-e-Awam University of Engineering, Science & Technology (QUEST), Nawabshah, Batch 23 (Roll No: 23BSCS44).
+
+Experience
+
+
+English instructor
+2015 — Present
+challenger Academy Quetta Balochistan Pakistan.
+
+Communication team 
+2024 — till
+in Society of Coders iam comunication team member.
+
+
+
+Web  developer
+80%
+Android developer
+70%
+Data Adminstration
+90%
+WordPress
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
